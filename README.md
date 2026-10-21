@@ -1,6 +1,9 @@
 About gevent-websocket
 ======================
 
+> [!WARNING]
+> **gevent-websocket is no longer maintained upstream.** The last upstream release of `gevent-websocket` was 0.10.1 on 2017-03-12. Development has stopped. This feedstock stays available for existing users, but no new versions are expected.
+
 Home: https://www.gitlab.com/noppo/gevent-websocket
 
 Package license: Apache-2.0
